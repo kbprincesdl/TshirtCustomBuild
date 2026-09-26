@@ -1,0 +1,6 @@
+{
+  "name": "Shankar Custom T-Shirts & Apparel Manufacturing",
+  "description": "Customizable AI-powered T-shirt design studio and B2B/B2C manufacturing system with live model mockups, high-res export, and end-to-end checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
